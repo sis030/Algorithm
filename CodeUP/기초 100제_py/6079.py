@@ -18,3 +18,5 @@ while True:
     if sum >= n: #다 더한 값이 n이랑 같거나 크면
         print(i) #마지막에 더한 정수를 출력
         break #하고 종료
+
+#다시 풀기
